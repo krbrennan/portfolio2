@@ -1,0 +1,22 @@
+{
+  "name": "mysite2",
+  "version": "1.0.0",
+  "description": "v2.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krbrennan/portfolio2.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "kbrennan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krbrennan/portfolio2/issues"
+  },
+  "homepage": "https://github.com/krbrennan/portfolio2#readme"
+}
